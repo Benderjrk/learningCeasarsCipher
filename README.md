@@ -1,5 +1,5 @@
-Take in a word and tell up if it spells the same back and forth.
+Function to take in a string and a number. To then, shift every letter in the string by the letter passed in.
 
-for example racecar spells both ways in english
+Should work with negative numbers as well.
 
-ignoring any punctuation characters
+Looping around to the beginning if it reaches the end of the alphabet.
